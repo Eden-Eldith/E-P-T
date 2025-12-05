@@ -10,7 +10,7 @@
 
 | Resource | Description |
 |----------|-------------|
-| [📄 Paper](https://garden-backend-three.vercel.app/finalized-work/ept/) | Process Tokenization of Identity |
+| [📄 Paper](https://garden-backend-three.vercel.app/finalized-work/process-tokenization-of-identity/process-tokenization-of-identity/) | Process Tokenization of Identity |
 | [🤗 Weights](https://huggingface.co/edeneldith/WiggleGPT) | WiggleGPT 124M checkpoints |
 | [💻 Code](https://github.com/Eden-Eldith/WiggleGPT) | WiggleGPT training scripts |
 
@@ -195,3 +195,4 @@ EPT_0.05.py (visualization + replay)
 ## License
 
 GPL-3.0 — if you build on this, keep it open source. Mess around with it whatever you want c:
+
