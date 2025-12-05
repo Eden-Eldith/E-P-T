@@ -1,0 +1,23 @@
+WiggleGPT-EPT Test Summary
+============================================================
+Run at: 2025-12-05T02:41:15.463221
+Results: 6/6 passed
+
+[PASS] EPT_0.05.py
+  Output: EPT_0.05_20251205_024103.txt
+
+[PASS] flux_bridge_v3.py
+  Output: flux_bridge_v3_20251205_024103.txt
+
+[PASS] compare_souls.py
+  Output: compare_souls_20251205_024103.txt
+
+[PASS] demo_integration.py
+  Output: demo_integration_20251205_024103.txt
+
+[PASS] extract_soul.py
+  Output: extract_soul_20251205_024103.txt
+
+[PASS] QUICKSTART.py
+  Output: QUICKSTART_20251205_024103.txt
+

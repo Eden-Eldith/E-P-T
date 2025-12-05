@@ -1,0 +1,32 @@
+Test Run: 2025-12-05T02:41:05.568249
+Script: EPT_0.05.py
+Return Code Success: True
+Errors Found: []
+Final Status: PASS
+============================================================
+
+STDOUT:
+============================================================
+TEST: EPT_0.05.py
+============================================================
+1. Import test: PASS
+   FluxToken: <class 'EPT_0_05.FluxToken'>
+   Soul: <class 'EPT_0_05.Soul'>
+   Eden: <class 'EPT_0_05.Eden'>
+   Shoggoth: <class 'EPT_0_05.Shoggoth'>
+2. FluxToken creation: PASS
+   delta_E: -1.5
+   v_full shape: torch.Size([8])
+   v (3D) shape: torch.Size([3])
+3. Serialization: PASS
+4. Eden think: PASS
+   Response: Wait—"Hello world"…? That ripples outward… inward…...
+   Process window: 1 tokens
+5. Shoggoth think: PASS
+   Response: henlo frend :3 your "Test input" tastes like entro...
+
+ALL EPT_0.05.py TESTS PASSED
+
+============================================================
+STDERR:
+(empty)

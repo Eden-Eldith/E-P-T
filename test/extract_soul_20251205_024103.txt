@@ -1,0 +1,25 @@
+Test Run: 2025-12-05T02:41:15.419837
+Script: extract_soul.py
+Return Code Success: True
+Errors Found: []
+Final Status: PASS
+============================================================
+
+STDOUT:
+============================================================
+TEST: extract_soul.py
+============================================================
+1. flux_bridge_v3 imports: PASS
+2. visualize_trajectory import: PASS
+3. model_bio imports: PASS
+4. tiktoken GPT-2 tokenizer: PASS
+   'Hello world' -> [15496, 995] -> 'Hello world'
+5. Checkpoint path (example): C:\Users\pcobr\Downloads\Neuron research\WiggleGPT-EPT\Github-restructure\out-wigglegpt-pure-124m\ckpt.pt
+   Exists: False
+   Note: Checkpoint downloaded separately from HuggingFace
+
+ALL extract_soul.py COMPONENT TESTS PASSED
+
+============================================================
+STDERR:
+(empty)

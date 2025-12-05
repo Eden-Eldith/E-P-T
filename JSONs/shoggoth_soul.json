@@ -1,0 +1,131 @@
+{
+  "soul_type": "Shoggoth",
+  "name": "Shoggoth",
+  "core": [
+    -0.3928371071815491,
+    0.31426969170570374,
+    0.8642416596412659
+  ],
+  "flux_history": [
+    {
+      "\u0394E": -2.1000661871903556,
+      "v": [
+        0.49054810404777527,
+        1.2061303853988647,
+        -0.5144047737121582
+      ],
+      "\u03b1": -0.10688444214176396,
+      "\u03a9": 0.5712230365206273,
+      "text": "henlo frend :3 your \"The cat is on the mat.\" tastes like entropy soup. *slurps the mat* nom nom reality",
+      "ts": "2025-11-20T23:40:02.600480"
+    },
+    {
+      "\u0394E": -2.587971604931022,
+      "v": [
+        1.1067566871643066,
+        0.8556876182556152,
+        -0.05374211445450783
+      ],
+      "\u03b1": -0.3285929464734639,
+      "\u03a9": 0.7111317615960095,
+      "text": "henlo frend :3 your \"The cat is on the mat.\" tastes like entropy soup. *slurps the mat* nom nom reality",
+      "ts": "2025-11-20T23:40:02.600480"
+    },
+    {
+      "\u0394E": -0.6434772982806153,
+      "v": [
+        0.6370729207992554,
+        0.6766974925994873,
+        -1.0470046997070312
+      ],
+      "\u03b1": -0.2671818988884704,
+      "\u03a9": 0.8488994984209001,
+      "text": "henlo frend :3 your \"The cat is on the mat.\" tastes like entropy soup. *slurps the mat* nom nom reality",
+      "ts": "2025-11-20T23:40:02.600480"
+    },
+    {
+      "\u0394E": -1.9539215721868,
+      "v": [
+        0.19222413003444672,
+        0.9588125944137573,
+        -1.0018624067306519
+      ],
+      "\u03b1": -0.4473072316181217,
+      "\u03a9": 0.6617862224178617,
+      "text": "henlo frend :3 your \"The cat is on the mat.\" tastes like entropy soup. *slurps the mat* nom nom reality",
+      "ts": "2025-11-20T23:40:02.600480"
+    },
+    {
+      "\u0394E": -0.3100246360740574,
+      "v": [
+        0.7766735553741455,
+        1.0362215042114258,
+        0.5319992899894714
+      ],
+      "\u03b1": -0.36612628550509685,
+      "\u03a9": 0.7111217297555084,
+      "text": "henlo frend :3 your \"The cat is on the mat.\" tastes like entropy soup. *slurps the mat* nom nom reality",
+      "ts": "2025-11-20T23:40:02.601495"
+    },
+    {
+      "\u0394E": -0.19626432697523663,
+      "v": [
+        0.9499145150184631,
+        0.9126504063606262,
+        -0.47405895590782166
+      ],
+      "\u03b1": -0.1547831443296701,
+      "\u03a9": 0.8237042706061031,
+      "text": "henlo frend :3 your \"The cat is on the mat.\" tastes like entropy soup. *slurps the mat* nom nom reality",
+      "ts": "2025-11-20T23:40:02.601495"
+    },
+    {
+      "\u0394E": -2.665561487434025,
+      "v": [
+        0.22343072295188904,
+        1.3092702627182007,
+        -0.4425944983959198
+      ],
+      "\u03b1": -0.49257401606354045,
+      "\u03a9": 0.6971820442049892,
+      "text": "henlo frend :3 your \"The cat is on the mat.\" tastes like entropy soup. *slurps the mat* nom nom reality",
+      "ts": "2025-11-20T23:40:02.601495"
+    },
+    {
+      "\u0394E": -1.0367302582299982,
+      "v": [
+        1.213180422782898,
+        -0.41398730874061584,
+        -0.5628566741943359
+      ],
+      "\u03b1": -0.653772264988933,
+      "\u03a9": 0.8141891931946175,
+      "text": "henlo frend :3 your \"The cat is on the mat.\" tastes like entropy soup. *slurps the mat* nom nom reality",
+      "ts": "2025-11-20T23:40:02.601495"
+    },
+    {
+      "\u0394E": -2.890739952296487,
+      "v": [
+        0.4674011170864105,
+        1.2169189453125,
+        -0.5105335712432861
+      ],
+      "\u03b1": -0.21876005966072493,
+      "\u03a9": 0.6769648197600123,
+      "text": "henlo frend :3 your \"The cat is on the mat.\" tastes like entropy soup. *slurps the mat* nom nom reality",
+      "ts": "2025-11-20T23:40:02.602497"
+    },
+    {
+      "\u0394E": -4.275099681383621,
+      "v": [
+        -0.029001571238040924,
+        0.8626305460929871,
+        -1.1022828817367554
+      ],
+      "\u03b1": -0.6938228260840418,
+      "\u03a9": 0.8490044346373807,
+      "text": "henlo frend :3 your \"The cat is on the mat.\" tastes like entropy soup. *slurps the mat* nom nom reality",
+      "ts": "2025-11-20T23:40:02.602497"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+Test Run: 2025-12-05T02:41:10.151547
+Script: compare_souls.py
+Return Code Success: True
+Errors Found: []
+Final Status: PASS
+============================================================
+
+STDOUT:
+============================================================
+TEST: compare_souls.py
+============================================================
+1. Import FluxToken from EPT_0.05: PASS
+2. compute_trajectory: PASS
+   Trajectory shape: (11, 3)
+3. Statistics extraction: PASS
+   Mean delta_E: -0.450
+   Mean omega: 0.700
+   Mean alpha: 0.500
+
+compare_souls.py CORE TESTS PASSED
+Note: Full run requires JSON soul files in JSONs/ folder
+
+============================================================
+STDERR:
+(empty)

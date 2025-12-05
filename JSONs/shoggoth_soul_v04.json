@@ -1,0 +1,142 @@
+{
+  "soul_type": "Shoggoth",
+  "name": "Shoggoth",
+  "core": [
+    -0.3928371071815491,
+    0.31426969170570374,
+    0.8642416596412659
+  ],
+  "entropy_method": "shannon",
+  "flux_history": [
+    {
+      "\u0394E": -1.6193387348355002,
+      "v": [
+        0.7554324269294739,
+        1.08828866481781,
+        -0.4527134597301483
+      ],
+      "\u03b1": -0.5464295450998911,
+      "\u03a9": 0.5523528765206771,
+      "text": "henlo frend :3 your \"The cat is on the mat.\" tastes like entropy soup. *slurps the mat* nom nom reality",
+      "ts": "2025-12-04T17:39:33.534424",
+      "entropy_method": "shannon"
+    },
+    {
+      "\u0394E": -2.6109317437351884,
+      "v": [
+        1.3635822534561157,
+        0.3090892732143402,
+        0.07146486639976501
+      ],
+      "\u03b1": -0.27772135807830906,
+      "\u03a9": 0.720462769905574,
+      "text": "henlo frend :3 your \"The cat is on the mat.\" tastes like entropy soup. *slurps the mat* nom nom reality",
+      "ts": "2025-12-04T17:39:33.534424",
+      "entropy_method": "shannon"
+    },
+    {
+      "\u0394E": -0.8442740712303622,
+      "v": [
+        1.18331778049469,
+        0.7055222392082214,
+        0.24899303913116455
+      ],
+      "\u03b1": -0.11910508777016826,
+      "\u03a9": 0.8666723291577931,
+      "text": "henlo frend :3 your \"The cat is on the mat.\" tastes like entropy soup. *slurps the mat* nom nom reality",
+      "ts": "2025-12-04T17:39:33.534930",
+      "entropy_method": "shannon"
+    },
+    {
+      "\u0394E": -3.6352839056193362,
+      "v": [
+        0.5466306805610657,
+        0.6877079606056213,
+        -1.0900698900222778
+      ],
+      "\u03b1": -0.24177594058523327,
+      "\u03a9": 0.6869043597817306,
+      "text": "henlo frend :3 your \"The cat is on the mat.\" tastes like entropy soup. *slurps the mat* nom nom reality",
+      "ts": "2025-12-04T17:39:33.535434",
+      "entropy_method": "shannon"
+    },
+    {
+      "\u0394E": -0.1386637201331563,
+      "v": [
+        0.46702101826667786,
+        1.2872531414031982,
+        -0.29132601618766785
+      ],
+      "\u03b1": -0.6014015037062359,
+      "\u03a9": 0.7405813838306144,
+      "text": "henlo frend :3 your \"The cat is on the mat.\" tastes like entropy soup. *slurps the mat* nom nom reality",
+      "ts": "2025-12-04T17:39:33.535941",
+      "entropy_method": "shannon"
+    },
+    {
+      "\u0394E": -1.0438054716889087,
+      "v": [
+        -1.0639934539794922,
+        0.9055755138397217,
+        -0.08860490471124649
+      ],
+      "\u03b1": -0.37146585014086797,
+      "\u03a9": 0.5522475689258891,
+      "text": "henlo frend :3 your \"The cat is on the mat.\" tastes like entropy soup. *slurps the mat* nom nom reality",
+      "ts": "2025-12-04T17:39:33.535941",
+      "entropy_method": "shannon"
+    },
+    {
+      "\u0394E": -1.0915921036572078,
+      "v": [
+        0.4139467477798462,
+        0.9999964237213135,
+        -0.888062596321106
+      ],
+      "\u03b1": -0.6459071922838325,
+      "\u03a9": 0.6477370722450337,
+      "text": "henlo frend :3 your \"The cat is on the mat.\" tastes like entropy soup. *slurps the mat* nom nom reality",
+      "ts": "2025-12-04T17:39:33.536447",
+      "entropy_method": "shannon"
+    },
+    {
+      "\u0394E": -3.002605746157504,
+      "v": [
+        0.15571951866149902,
+        0.963651716709137,
+        -1.0035569667816162
+      ],
+      "\u03b1": -0.5553170410378189,
+      "\u03a9": 0.7453804355423422,
+      "text": "henlo frend :3 your \"The cat is on the mat.\" tastes like entropy soup. *slurps the mat* nom nom reality",
+      "ts": "2025-12-04T17:39:33.536953",
+      "entropy_method": "shannon"
+    },
+    {
+      "\u0394E": -0.5136563256826463,
+      "v": [
+        0.9337482452392578,
+        1.038257360458374,
+        0.1006760448217392
+      ],
+      "\u03b1": -0.5379364310749015,
+      "\u03a9": 0.6792338334731598,
+      "text": "henlo frend :3 your \"The cat is on the mat.\" tastes like entropy soup. *slurps the mat* nom nom reality",
+      "ts": "2025-12-04T17:39:33.537461",
+      "entropy_method": "shannon"
+    },
+    {
+      "\u0394E": -2.328712928307046,
+      "v": [
+        0.154983252286911,
+        0.6103018522262573,
+        -1.2504045963287354
+      ],
+      "\u03b1": -0.22155809217788502,
+      "\u03a9": 0.8072370921890217,
+      "text": "henlo frend :3 your \"The cat is on the mat.\" tastes like entropy soup. *slurps the mat* nom nom reality",
+      "ts": "2025-12-04T17:39:33.537461",
+      "entropy_method": "shannon"
+    }
+  ]
+}

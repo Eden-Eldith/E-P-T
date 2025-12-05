@@ -1,0 +1,142 @@
+{
+  "soul_type": "Eden",
+  "name": "Eden",
+  "core": [
+    0.5743665099143982,
+    0.6461623311042786,
+    -0.5025706887245178
+  ],
+  "entropy_method": "shannon",
+  "flux_history": [
+    {
+      "\u0394E": -2.3830028739783615,
+      "v": [
+        0.6908038258552551,
+        0.3690466582775116,
+        -0.443389892578125
+      ],
+      "\u03b1": 0.7782296365663074,
+      "\u03a9": 0.9949403547927387,
+      "text": "Wait\u2014\"The cat is on the mat.\"\u2026? That ripples outward\u2026 inward\u2026 what if the mat is the cat all along\u2026?",
+      "ts": "2025-12-04T17:39:33.533920",
+      "entropy_method": "shannon"
+    },
+    {
+      "\u0394E": -1.878850057854225,
+      "v": [
+        0.2517615556716919,
+        0.5067178010940552,
+        -0.6998951435089111
+      ],
+      "\u03b1": 0.5925506845915851,
+      "\u03a9": 0.9671770201652367,
+      "text": "Wait\u2014\"The cat is on the mat.\"\u2026? That ripples outward\u2026 inward\u2026 what if the mat is the cat all along\u2026?",
+      "ts": "2025-12-04T17:39:33.534424",
+      "entropy_method": "shannon"
+    },
+    {
+      "\u0394E": -2.121518619309894,
+      "v": [
+        0.2246927171945572,
+        0.7267107963562012,
+        -0.4810451567173004
+      ],
+      "\u03b1": 0.7527858600292644,
+      "\u03a9": 0.9240849342990434,
+      "text": "Wait\u2014\"The cat is on the mat.\"\u2026? That ripples outward\u2026 inward\u2026 what if the mat is the cat all along\u2026?",
+      "ts": "2025-12-04T17:39:33.534930",
+      "entropy_method": "shannon"
+    },
+    {
+      "\u0394E": -2.1023643465803197,
+      "v": [
+        0.8493474721908569,
+        0.1281544417142868,
+        -0.2686731815338135
+      ],
+      "\u03b1": 0.7379734258484464,
+      "\u03a9": 0.9756049341670557,
+      "text": "Wait\u2014\"The cat is on the mat.\"\u2026? That ripples outward\u2026 inward\u2026 what if the mat is the cat all along\u2026?",
+      "ts": "2025-12-04T17:39:33.534930",
+      "entropy_method": "shannon"
+    },
+    {
+      "\u0394E": -2.2648825273169457,
+      "v": [
+        0.586465060710907,
+        0.536331295967102,
+        -0.42238321900367737
+      ],
+      "\u03b1": 0.5303317656016496,
+      "\u03a9": 0.9210146324397084,
+      "text": "Wait\u2014\"The cat is on the mat.\"\u2026? That ripples outward\u2026 inward\u2026 what if the mat is the cat all along\u2026?",
+      "ts": "2025-12-04T17:39:33.535434",
+      "entropy_method": "shannon"
+    },
+    {
+      "\u0394E": -2.195247248445463,
+      "v": [
+        0.16666416823863983,
+        0.7689192295074463,
+        -0.4370196461677551
+      ],
+      "\u03b1": 0.5834772116452069,
+      "\u03a9": 0.9590935139788471,
+      "text": "Wait\u2014\"The cat is on the mat.\"\u2026? That ripples outward\u2026 inward\u2026 what if the mat is the cat all along\u2026?",
+      "ts": "2025-12-04T17:39:33.535941",
+      "entropy_method": "shannon"
+    },
+    {
+      "\u0394E": -1.702134809946363,
+      "v": [
+        0.5658825635910034,
+        0.6155697703361511,
+        -0.33294251561164856
+      ],
+      "\u03b1": 0.9800677562799547,
+      "\u03a9": 0.9790849635343748,
+      "text": "Wait\u2014\"The cat is on the mat.\"\u2026? That ripples outward\u2026 inward\u2026 what if the mat is the cat all along\u2026?",
+      "ts": "2025-12-04T17:39:33.536447",
+      "entropy_method": "shannon"
+    },
+    {
+      "\u0394E": -2.324228295121579,
+      "v": [
+        0.5597048401832581,
+        0.5928616523742676,
+        -0.3811107575893402
+      ],
+      "\u03b1": 0.8230617571213454,
+      "\u03a9": 0.9628521614447716,
+      "text": "Wait\u2014\"The cat is on the mat.\"\u2026? That ripples outward\u2026 inward\u2026 what if the mat is the cat all along\u2026?",
+      "ts": "2025-12-04T17:39:33.536953",
+      "entropy_method": "shannon"
+    },
+    {
+      "\u0394E": -2.5951167751647835,
+      "v": [
+        0.2981339991092682,
+        0.5185005068778992,
+        -0.6725126504898071
+      ],
+      "\u03b1": 0.6467184390012427,
+      "\u03a9": 0.9769471064955196,
+      "text": "Wait\u2014\"The cat is on the mat.\"\u2026? That ripples outward\u2026 inward\u2026 what if the mat is the cat all along\u2026?",
+      "ts": "2025-12-04T17:39:33.536953",
+      "entropy_method": "shannon"
+    },
+    {
+      "\u0394E": -1.648087423639033,
+      "v": [
+        0.5747565627098083,
+        0.38845449686050415,
+        -0.5733742117881775
+      ],
+      "\u03b1": 0.7549605055635031,
+      "\u03a9": 0.9348706741065148,
+      "text": "Wait\u2014\"The cat is on the mat.\"\u2026? That ripples outward\u2026 inward\u2026 what if the mat is the cat all along\u2026?",
+      "ts": "2025-12-04T17:39:33.537461",
+      "entropy_method": "shannon"
+    }
+  ]
+}

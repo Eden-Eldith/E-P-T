@@ -1,0 +1,24 @@
+Test Run: 2025-12-05T02:41:07.879457
+Script: flux_bridge_v3.py
+Return Code Success: True
+Errors Found: []
+Final Status: PASS
+============================================================
+
+STDOUT:
+============================================================
+TEST: flux_bridge_v3.py
+============================================================
+1. Import test: PASS
+2. FluxToken creation: PASS
+   v shape: torch.Size([3]), v_full shape: torch.Size([8])
+3. FluxToken serialization: PASS
+4. PCAStabilizer: PASS
+5. FluxExtractor params: ['self', 'model', 'entropy_method', 'n_components', 'enable']
+   enable parameter: PRESENT
+
+ALL flux_bridge_v3.py TESTS PASSED
+
+============================================================
+STDERR:
+(empty)

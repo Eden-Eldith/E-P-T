@@ -1,0 +1,32 @@
+Test Run: 2025-12-05T02:41:12.589686
+Script: demo_integration.py
+Return Code Success: True
+Errors Found: []
+Final Status: PASS
+============================================================
+
+STDOUT:
+============================================================
+TEST: demo_integration.py
+============================================================
+1. FluxToken creation: PASS
+   delta_E: -2.5
+   v: [ 0.5 -0.3  0.8]
+2. FluxToken serialization: PASS
+3. FluxExtractor params: ['self', 'model', 'entropy_method', 'n_components', 'enable']
+   enable parameter: PASS
+4. model_bio import: PASS
+number of parameters: 0.13M
+5. GPT model creation: PASS
+   Layers: 2, Embedding: 64
+6. FluxExtractor(model, enable=True): PASS
+   Hooks registered: 2
+7. Forward pass extraction: PASS
+   Flux tokens extracted: 2
+8. Cleanup: PASS
+
+ALL demo_integration.py TESTS PASSED
+
+============================================================
+STDERR:
+(empty)
